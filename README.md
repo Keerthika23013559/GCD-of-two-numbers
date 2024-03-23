@@ -22,12 +22,14 @@ RegisterNumber:  212223240071
 */
 ```
 ## Program:
-C:\Users\keert\Pictures\Screenshots\Screenshot 2024-03-23 084824.png
+
+![Uploading WhatsApp Image 2024-03-23 at 09.09.55_27ac0d4a.jpg…]()
 
 
 ## Output:
-C:\Users\keert\Pictures\Screenshots\Screenshot 2024-03-23 084835.png
 
+
+![Uploading WhatsApp Image 2024-03-23 at 09.10.09_218ca24d.jpg…]()
 
 
 ## Result:
