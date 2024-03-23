@@ -23,13 +23,14 @@ RegisterNumber:  212223240071
 ```
 ## Program:
 
-![Uploading WhatsApp Image 2024-03-23 at 09.09.55_27ac0d4a.jpg…]()
+![Screenshot 2024-03-23 085741](https://github.com/Keerthika23013559/GCD-of-two-numbers/assets/162658262/98dd5686-b3ad-42a6-b1c3-77f1278791bc)
 
 
 ## Output:
 
 
-![Uploading WhatsApp Image 2024-03-23 at 09.10.09_218ca24d.jpg…]()
+![Screenshot 2024-03-23 085748](https://github.com/Keerthika23013559/GCD-of-two-numbers/assets/162658262/ebcdd1d8-c6ca-45ef-83f4-5aa2dc1ec78e)
+
 
 
 ## Result:
